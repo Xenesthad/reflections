@@ -11,3 +11,9 @@ Then all your work will be lost with no easy way of recovering it.
 The types of files you would be saving from a system like google docs differ greatly from that of git.
 Most of the time in GD you would be working with a single file where as  in Git you could be working with many files that all relate to eachother
 at the same time.
+The git log command will show a list of the commits that have been made to repository in question.
+In order to see the differences between the versions of the files you will need to copy the commit id from the commit in question
+and the one from the most recent version and use the git diff command in order to see the differences.
+Version control makes you more confident to make changes that could potentially break a part of the code
+because you will be safe in the knowledge that no matter what changes you make you can always revert back to an older version of the code that you know will work.
+I want to use git to keep track of the changes i've made to my app and to allow me to branch off into different version of it in order to try ideas.
