@@ -1,0 +1,4 @@
+When you initialise a repository it creates a blank hidden .git folder that will contain the repo.
+You need to do it so it will know where to put stuff at a later date.
+The staging area gives you an opportunity to prepare files for a commit without doing it.
+This allows  you to check for mistakes and change you mind before committing if you so choose.

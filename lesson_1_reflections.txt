@@ -1,0 +1,13 @@
+Having multiple versions of the same file at different levels of creation helped by allowing me
+to see the differences between them at a given point in time.
+This allowed me to spot the differences and fix any bugs that happened to be present in the code.
+Having access to the entire history of a file is very useful if for examply you are coding a brand new feature
+and find the code generating errors that are unable to be solved and make the whole software break
+by checking through the older versions of the code you are able to compare the differences and find any mistakes that you may have made.
+The advantage of choosing when to commit manually is that you have total control over the contents of the commit.
+This prevents you from having unfinished or broken code committed as a supposedly working version of the code.
+The downside is that you are totally responsible for the upkeep of the commits so if you forget to commit the changes and suffer a computer crash.
+Then all your work will be lost with no easy way of recovering it.
+The types of files you would be saving from a system like google docs differ greatly from that of git.
+Most of the time in GD you would be working with a single file where as  in Git you could be working with many files that all relate to eachother
+at the same time.
